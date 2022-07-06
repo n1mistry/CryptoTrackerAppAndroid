@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoTrackerApp</string>
+    <string name="max_supply">Max Supply</string>
+    <string name="circulating_supply">Circulating Supply</string>
+    <string name="total_supply">Total Supply</string>
+    <string name="twitter_news">Twitter News</string>
+</resources>
